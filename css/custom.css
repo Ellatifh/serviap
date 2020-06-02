@@ -1,0 +1,46 @@
+/* your styles go here */
+
+.white-textes .item{
+    color:#eee;
+}
+
+.get-it{
+    padding: 5px 0 0;
+}
+
+.contact-text{
+    font-size:14px
+}
+.contact-info a{
+    color: #eee;
+    font-weight: 600;
+}
+.contact-info a:hover{
+    color:#E60F21;
+}
+
+.light-dark{
+    background:#000000;
+}
+.box-simple .icon-outlined{
+    border:0
+}
+.icon-wrapper{
+    width: 110px;
+    height: 110px;
+    text-align: center;
+    line-height: 110px;
+    font-size: 50px;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto 15px;
+    border-width: 8px;
+    border-style: solid;
+    display: block;
+    -webkit-border-radius: 100%;
+    border-radius: 100%;
+}
+
+footer.main-footer .copyrights{
+    padding: 15px 0;
+}
